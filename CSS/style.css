@@ -1,0 +1,69 @@
+body {
+    background-color: #fff3db;
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: #f02425;
+    color: white;
+    text-transform: uppercase;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: #f02425;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
+
+h3 {
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.gris {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.rouge {
+    color: #f02425;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.bis {
+    color: #f02425;
+    font-size: 1.1em;
+}
+
+.img {
+    width: 100%;
+}
+
+.lien a {
+    color: #1592d4;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-decoration: underline;
+}
+
+.bleu {
+    color: #1592d4;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-decoration: underline;
+}
+
+.astuce {
+    background-color: #FED48A;
+    color: rgb(80, 79, 79);
+    font-weight: bold;
+    font-size: 0.9em;
+    text-align: center;
+}
